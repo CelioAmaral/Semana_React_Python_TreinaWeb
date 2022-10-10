@@ -1,4 +1,4 @@
-# Semana_React_Python_TreinaWeb
+# Semana_React_Python_TreinaWeb_FrontEnd
 
 Desenvolvimento do projeto, relacionado a Trilha Principal:
 
