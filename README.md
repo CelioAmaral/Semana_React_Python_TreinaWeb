@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -32,3 +33,12 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# Semana_React_Python_TreinaWeb_FrontEnd
+
+Desenvolvimento do projeto, relacionado a Trilha Principal:
+
+- O que é React, Next.JS, JSX, Material UI e outras ferramentas importantes do desenvolvimento front-end moderno
+- O que são e como trabalhar com componentes
+- Como Criar uma página completa usando essas ferramentas
+>>>>>>> 4619a6a3f24d4c95400a668a7fd1edc4faa26b87
